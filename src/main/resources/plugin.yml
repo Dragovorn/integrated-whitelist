@@ -1,0 +1,4 @@
+name: IntegratedWhitelist
+author: Dragovorn
+version: ${project.version}
+main: com.dragovorn.integratedwhitelist.IntegratedWhitelist
